@@ -1,6 +1,7 @@
 # React-three-fiber 8thwall Starter
 
-Experiement r3f using the latest drei/r3f versions + 8thWall based on the [template](https://github.com/pmndrs/react-three-8thwall) created by the [utsubo](https://www.utsubo.co/) studio.
+- Experiement r3f using the latest drei/r3f versions + 8thWall
+- Based on the [template](https://github.com/pmndrs/react-three-8thwall) created by the [utsubo](https://www.utsubo.co/) studio.
 
 ## Setup project
 
